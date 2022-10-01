@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 http://open-notify.org/Open-Notify-API/ISS-Location-Now/
 
+## 3D Model for SpaceStation
+
+https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/ISS%20(IGOAL)
+
 ## Available Scripts
 
 In the project directory, you can run:
